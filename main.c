@@ -1,5 +1,16 @@
 /* USER CODE BEGIN Header */
 /**
+
+PA0  -> Analog In
+3.3v -> Pot
+Gnd  -> Pot
+SPI - 1
+PA4 --> SS
+PA5 --> SCLK
+PA6 --> MISO
+PA7 --> MOSI
+
+sd card fat32 format
   ******************************************************************************
   * @file           : main.c
   * @brief          : Main program body
